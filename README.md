@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Firebase-1C1C1C?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
   <img src="https://img.shields.io/badge/Figma-1C1C1C?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
+
 ### 🧩 Архитектуры:
 `MVVM` • `MVC` • `MVP` • `Clean Architecture` 
 
